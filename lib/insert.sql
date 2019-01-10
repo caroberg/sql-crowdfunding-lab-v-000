@@ -6,7 +6,7 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 ("Checkers Tableclothes", "Kitchen", 3002, 11/03/2018, 04/09/2019),
 ("Lost & Foundry", "Antiques", 100, 01/01/2019, 01/05/2019),
 ("Hoes for Hos", "Garden", 6000, 07/27/2017, 03/01/2018),
-("Fluffer Pillows", "Bedroom", 20000, 01/01/2017, 03/01/2019),
+("Tammy's Tambourines", "Music", 20000, 01/01/2017, 03/01/2019),
 ("Baby Booties", "Shoes", 9000, 04/04/2014, 05/05/2015),
 ("Saddles", "Sex Toys", 10000, 09/02/1987, 09/02/2019);
 
